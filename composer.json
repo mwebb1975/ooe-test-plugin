@@ -1,5 +1,5 @@
 {
-    "name": "ooe/test",
+    "name": "mwebb1975/ooe-test-plugin",
     "description": "Test plugin using composer",
     "type": "wordpress-plugin",
     "autoload": {
