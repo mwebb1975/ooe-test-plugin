@@ -1,0 +1,17 @@
+{
+    "name": "ooe/test",
+    "description": "Test plugin using composer",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Ooe\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthew Webb",
+            "email": "mwebb1975@gmail.com"
+        }
+    ],
+    "require": {}
+}
